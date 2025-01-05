@@ -180,7 +180,7 @@ public class Q1 {
 
         ordersWithMinTotalPrice(CommerceSystem.orders.toArray(new Order[0])); //Q1.9
 
-        customersWithNoOrders(customers.toArray(new Customer[0]));
+        customersWithNoOrders(customers.toArray(new Customer[0])); //Q1.10
     }
 
 /**
