@@ -17,7 +17,7 @@ public class Calculator {
     }
 
     private static double[] getNumbers(String input, int count){
-        double[] numbers = new double[count];
+        double[] numbers = new double[count+1];
         int start = 0;
         int indexNums = 0;
 
